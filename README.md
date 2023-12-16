@@ -24,8 +24,7 @@ By doing this project I was able to put CSS selectors into practice such as disp
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://componente-de-c-digo-qr-sigma.vercel.app/)
 
 ## My process
 
